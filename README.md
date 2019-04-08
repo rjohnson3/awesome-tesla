@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for Tesla vehicles.
 
-Want to contribute? Fork this repository, add your project and send us a PR. 
+Want to contribute? Fork this repository, add your resources and send us a PR. 
 
 ## Table of Contents
 
