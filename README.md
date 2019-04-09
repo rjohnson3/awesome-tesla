@@ -14,6 +14,8 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 - [Web Apps](#mobile-applications)
   - [Controls](#controls)
   - [Statistics](#statistics)
+  
+- [In-Car Browser Apps] (#incar-browser-apps)
 
 - [News](#news)
 
@@ -35,6 +37,18 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [Stats: For Tesla Model X/S/3](https://itunes.apple.com/us/app/stats-for-tesla-model-s-x-3/id1191100729?mt=8) - Serious stats for serious Tesla owners
 
 ## Web Apps
+
+## In-Car Browser Apps
+ - [Eve](https://teslaapps.net/en/) - Premier Dashboard for Tesla
+ - [Teslapage](http://teslapage.com/) - Site with news, nearby charging stations, stock price, weather. 
+ - [Waze for Tesla Incidents](https://teslawaze.azurewebsites.net/) - Waze for Tesla Incidents - Webapp that displays incidents reported via Waze.
+ - [TeslaTap](http://teslatap.com/guest/sd-us/valet.php) - Site that demonstrates aspect of Model S to Valet, Guests and Car Washes
+ - [QuickTesla](https://qtes.la/) - Site with weather, news, charging, stock price and valet instructions.
+ - [Tes.app](https://tes.app) - Tesla Apps for Model 3 Model S & Model X 
+ - [A Better Route Planner](https://abetterrouteplanner.com/) - A better route planner
+ - [TezLab](https://tezlabapp.com) - Tesla monitoring and statistics
+ - [Tesla Winds and Elevation](https://teslawinds.com/) - Show your course, ground speed, wind direction, crosswind, headwind/tailwind, elevation, climb/descend rates and grade.
+ - [qTesla](https://qtes.la/) - Tesla browser based app launcher
 
 ### Controls
 
