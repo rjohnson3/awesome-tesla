@@ -47,6 +47,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [TezLab](https://tezlabapp.com) - Tesla monitoring and statistics
  - [Tesla Winds and Elevation](https://teslawinds.com/) - Show your course, ground speed, wind direction, crosswind, headwind/tailwind, elevation, climb/descend rates and grade.
  - [qTesla](https://qtes.la/) - Tesla browser based app launcher
+ - [Kinetic Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
 
 
 ## Web Apps
