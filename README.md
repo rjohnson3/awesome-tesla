@@ -7,15 +7,15 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 ## Table of Contents
 
 - [Mobile Apps](#mobile-applications)
-  - [Official](#official)
-  - [Controls](#controls)
-  - [Statistics](#statistics)
+  - [Official](#mobile-official)
+  - [Controls](#mobile-controls)
+  - [Statistics](#mobile-statistics)
   
 - [In-Car Browser Apps](#in-car-browser-apps)
 
-- [Web Apps](#mobile-applications)
-  - [Controls](#controls)
-  - [Statistics](#statistics)
+- [Web Apps](#web-applications)
+  - [Controls](#web-controls)
+  - [Statistics](#web-statistics)
   
 - [News](#news)
 
@@ -26,13 +26,13 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 
 ## Mobile Apps
 
-### Official
+### Mobile Official
 - [Tesla App for IOS](https://itunes.apple.com/us/app/tesla-model-s/id582007913?mt=8) - Official Tesla App for IOS
 - [Tesla App for Android](https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en) - Official Tesla App for Android
 
-### Controls
+### Mobile Controls
 
-### Statistics
+### Mobile Statistics
 
  - [Stats: For Tesla Model X/S/3](https://itunes.apple.com/us/app/stats-for-tesla-model-s-x-3/id1191100729?mt=8) - Serious stats for serious Tesla owners
 
@@ -52,10 +52,10 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 
 ## Web Apps
 
-### Controls
+### Web Controls
 
 
-### Statistics
+### Web Statistics
 
  - [TeslaFi](www.teslafi.com) - Incredible wealth of stats for your Tesla.
  - [Teslastics](https://teslastics.com) - Teslastics is a platform to monitorize your Tesla.
