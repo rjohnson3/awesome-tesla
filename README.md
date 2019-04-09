@@ -7,6 +7,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 ## Table of Contents
 
 - [Mobile Apps](#mobile-applications)
+  - [Official](#official)
   - [Controls](#controls)
   - [Statistics](#statistics)
 
@@ -23,6 +24,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 
 ## Mobile Apps
 
+### Controls
 - [Tesla App for IOS](https://itunes.apple.com/us/app/tesla-model-s/id582007913?mt=8) - Official Tesla App for IOS
 - [Tesla App for Android](https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en) - Official Tesla App for Android
 
