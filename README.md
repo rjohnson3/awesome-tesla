@@ -67,6 +67,9 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 
  - [Taptes](https://www.taptes.com/) - Just Tesla accessories
  - [Evannex](https://evannex.com/) - Aftermarket Tesla accessories
+ - [For My Tesla](http://formytesla.com/) - Floormats & more
+ - [RPM Tesla](https://www.rpmtesla.com/) - Aftermarket Tesla accessories
+ - [Tesla Official Site](http://www.shop.teslamotors.com) - Official Tesla Accessories 
  
 ## Clubs
  - [Tesla Motor Club](https://teslamotorsclub.com/) - Tesla Motor Club
