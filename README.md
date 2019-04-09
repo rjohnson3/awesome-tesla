@@ -11,7 +11,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
   - [Controls](#controls)
   - [Statistics](#statistics)
   
-- [In-Car Browser Apps] (#incar-browser-apps)
+- [In-Car Browser Apps](#in-car-browser-apps)
 
 - [Web Apps](#mobile-applications)
   - [Controls](#controls)
