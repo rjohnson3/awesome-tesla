@@ -23,6 +23,11 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 
 - [Clubs](#clubs)
 
+- [Development](#development)
+  - [APIs](#development-apis)
+  - [Tools](#development-tools)
+
+
 
 ## Mobile Apps
 
@@ -79,3 +84,12 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [Tesla Owners Online](https://teslaownersonline.com/) - Tesla Owners Online
  - [Tesla Model 3 Onwers Club](https://model3ownersclub.com) - Tesla Model 3 Owners Club
  
+## Development
+
+### Development APIs
+  - [Tesla JSON API Unofficial](https://tesla-api.timdorr.com/) - Documentation for Tesla REST API
+  - [Ruby Gem For Tesla API](https://github.com/timdorr/tesla-api) - Ruby Gem for Tesla API
+  - [TeslaJS](https://github.com/mseminatore/TeslaJS) - An unofficial NodeJS library that encapsulates the Tesla RESTful API. This library currently supports all existing Tesla vehicles.
+
+### Development Tools
+
