@@ -70,6 +70,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [Teslarati](https://www.teslarati.com/) - Tesla News, Tips, Rumors, and Reviews
  - [Electrek](https://electrek.co/guides/tesla/) - Tesla news
  - [Autoblog](https://www.autoblog.com/tesla/news/) - Autoblog Tesla News
+ - [TeslaTap](https://teslatap.com/) - Tap into current and future features, undocumented technical areas and more about Tesla’s latest vehicles such as the fantastic Model S, Model X and Model 3!
  
 ## Accessories
 
