@@ -96,4 +96,5 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
   - [TeslaJS](https://github.com/mseminatore/TeslaJS) - An unofficial NodeJS library that encapsulates the Tesla RESTful API. This library currently supports all existing Tesla vehicles.
 
 ### Development Tools
+ - [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) - Open-source Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, steering mode, and 30+ more handlers. Connects via OBD-II or X179 connector.
 
