@@ -66,6 +66,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [TeslaFi](www.teslafi.com) - Incredible wealth of stats for your Tesla.
  - [Teslastics](https://teslastics.com) - Teslastics is a platform to monitorize your Tesla.
  - [Teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla
+ - [WattsonBot](https://wattsonbot.org) - Real-time Tesla alerts and stats in Telegram - charging, battery, TPMS and drive summaries
 
 ## News
 
