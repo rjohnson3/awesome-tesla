@@ -16,6 +16,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 - [Web Apps](#web-applications)
   - [Controls](#web-controls)
   - [Statistics](#web-statistics)
+  - [Customization](#web-customization)
   
 - [News](#news)
 
@@ -67,6 +68,10 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [Teslastics](https://teslastics.com) - Teslastics is a platform to monitorize your Tesla.
  - [Teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla
  - [WattsonBot](https://wattsonbot.org) - Real-time Tesla alerts and stats in Telegram - charging, battery, TPMS and drive summaries
+
+### Web Customization
+
+ - [Tesla Wrap Designer](https://tesla-wrap.design) - AI Tesla Paint Shop wrap designer with a 3D preview, PNG export for the Tesla app or USB, and a 5,000+ free wrap gallery.
 
 ## News
 
