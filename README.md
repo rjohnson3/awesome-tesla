@@ -102,4 +102,5 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 
 ### Development Tools
  - [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) - Open-source Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, steering mode, and 30+ more handlers. Connects via OBD-II or X179 connector.
+ - [Tesla OE Cross Reference](https://github.com/maplev-ca/tesla-oe-cross-reference) - Open dataset (CSV/JSON, CC BY 4.0) of Model 3 and Model Y part numbers: 513 Tesla OE numbers grouped by part, with fitment dates and Partslink numbers.
 
