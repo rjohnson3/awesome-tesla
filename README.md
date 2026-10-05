@@ -72,6 +72,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 ### Web Customization
 
  - [Tesla Wrap Designer](https://tesla-wrap.design) - AI Tesla Paint Shop wrap designer with a 3D preview, PNG export for the Tesla app or USB, and a 5,000+ free wrap gallery.
+ - [FrunkLab](https://www.frunklab.com/) - Free Tesla Paint Shop wrap designer with a live 3D preview for every model, an AI wrap generator, and nearly 400 free lock chimes plus an AI lock chime generator.
 
 ## News
 
