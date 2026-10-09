@@ -55,6 +55,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [qTesla](https://qtes.la/) - Tesla browser based app launcher
  - [Kinetic Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
  - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities and directions.
+ - [DriveLyrics](https://drivelyrics.com/) - Synced, line-by-line lyrics for what's playing on Spotify, with translations; sign the car in by scanning a QR code. Free and open source; requires Spotify Premium.
 
 
 ## Web Apps
