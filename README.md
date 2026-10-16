@@ -72,6 +72,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 ### Web Customization
 
  - [Tesla Wrap Designer](https://tesla-wrap.design) - AI Tesla Paint Shop wrap designer with a 3D preview, PNG export for the Tesla app or USB, and a 5,000+ free wrap gallery.
+ - [TeslaWraps](https://teslawraps.design) - A free online editor for digital Tesla wraps, with model templates, a 3D preview and PNG export for Paint Shop.
 
 ## News
 
