@@ -40,6 +40,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 
 ### Mobile Statistics
 
+ - [JourneyDeck](https://apps.apple.com/us/app/journeydeck/id6806502526) - Private road trip journal for iPhone that saves your route and the songs that played.
  - [Stats: For Tesla Model X/S/3](https://itunes.apple.com/us/app/stats-for-tesla-model-s-x-3/id1191100729?mt=8) - Serious stats for serious Tesla owners
 
 ## In-Car Browser Apps
