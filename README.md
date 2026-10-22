@@ -10,6 +10,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
   - [Official](#mobile-official)
   - [Controls](#mobile-controls)
   - [Statistics](#mobile-statistics)
+  - [Family & Sharing](#mobile-family--sharing)
   
 - [In-Car Browser Apps](#in-car-browser-apps)
 
@@ -41,6 +42,10 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
 ### Mobile Statistics
 
  - [Stats: For Tesla Model X/S/3](https://itunes.apple.com/us/app/stats-for-tesla-model-s-x-3/id1191100729?mt=8) - Serious stats for serious Tesla owners
+
+### Mobile Family & Sharing
+
+- [Amya](https://amya.app/tesla/) - Family location app for iPhone; while you drive, your family sees your Tesla's destination, arrival time and battery, end-to-end encrypted, via Tesla's Fleet API (paid tier)
 
 ## In-Car Browser Apps
  - [Eve](https://teslaapps.net/en/) - Premier Dashboard for Tesla
