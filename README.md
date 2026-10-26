@@ -1,105 +1,65 @@
-# Awesome Tesla
+# Awesome Tesla [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome resources for Tesla vehicles.
+> A curated list of awesome resources related with Tesla Motors.
 
-Want to contribute? Fork this repository, add your resources and send us a PR. 
+## Contents
 
-## Table of Contents
-
-- [Mobile Apps](#mobile-applications)
-  - [Official](#mobile-official)
-  - [Controls](#mobile-controls)
-  - [Statistics](#mobile-statistics)
-  
+- [Marketplaces](#marketplaces)
+- [Automatization](#automatization)
+- [Customization](#customization)
 - [In-Car Browser Apps](#in-car-browser-apps)
+- [Technical Information](#technical-information)
+- [Coding Libraries](#coding-libraries)
 
-- [Web Apps](#web-applications)
-  - [Controls](#web-controls)
-  - [Statistics](#web-statistics)
-  - [Customization](#web-customization)
-  
-- [News](#news)
+## Marketplaces
 
-- [Accessories](#accessories)
+- [teslahunt.io](https://teslahunt.io/) - Real-time Tesla Certified Pre Owned (CPO) inventory monitoring in Europe.
+- [ev-cpo.com](https://ev-cpo.com/) - Search, filter, automate-for-teslaand sort all Tesla New and Used Inventory.
+- [ev-tsla.com](https://ev-tsla.com/) - Tesla global inventory search.
 
-- [Clubs](#clubs)
+## Automatization
 
-- [Development](#development)
-  - [APIs](#development-apis)
-  - [Tools](#development-tools)
+- [TeslaMate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla.
+- [tesLAX](https://apps.apple.com/us/app/teslax-canbus-explorer/id1495403139) - An iOS CANBus Explorer to visualize internal metrics.
+- [ABRP](https://abetterrouteplanner.com/) - The best trip route planner for Tesla Owners ([iOS](https://apps.apple.com/us/app/a-better-routeplanner-abrp/id1490860521) | [Android](https://play.google.com/store/apps/details?id=com.iternio.abrpapp)).
+- [Tesla Light Show](https://github.com/teslamotors/light-show) - Create and run your own light shows on Tesla vehicles.
+- [WattsonBot](https://wattsonbot.org/) - Real-time Tesla alerts in Telegram: charging, battery, TPMS and drive summaries.
+- [SentryAlert](https://sentryalert.app) - Push notifications on your phone when your Tesla reports a Sentry Mode event ([iOS](https://apps.apple.com/app/id6759935513) | [Android](https://play.google.com/store/apps/details?id=com.couzon.sentryalert)).
 
+## Charging
 
+- [TWCManager](https://github.com/ngardiner/TWCManager) – Control power delivered by a Tesla Wall Charger.
+- [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities, and directions.
 
-## Mobile Apps
+## Customization
 
-### Mobile Official
-- [Tesla App for IOS](https://itunes.apple.com/us/app/tesla-model-s/id582007913?mt=8) - Official Tesla App for IOS
-- [Tesla App for Android](https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en) - Official Tesla App for Android
+- [Tesla Wrap Designer](https://tesla-wrap.design/) - Design Tesla Paint Shop wraps with AI and a 3D preview, then export the PNG for the Tesla app or USB.
 
-### Mobile Controls
-
-### Mobile Statistics
-
- - [Stats: For Tesla Model X/S/3](https://itunes.apple.com/us/app/stats-for-tesla-model-s-x-3/id1191100729?mt=8) - Serious stats for serious Tesla owners
+- [TeslaWraps](https://teslawraps.design/) - Free browser editor for Tesla Paint Shop wraps with model templates, panel masking and a 3D preview; no account needed, optional paid AI credits.
+- [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) - Open-source CAN bus toolkit for Flipper Zero and ESP32 with a live BMS dashboard, CAN capture, adjustable Track Mode, and Autopilot/FSD feature toggles over OBD-II or the X179 connector.
+- [FrunkLab](https://www.frunklab.com/) - Design Tesla Paint Shop wraps with a live 3D preview and an AI generator, and make custom lock chimes, with free PNG and LockChime.wav downloads.
 
 ## In-Car Browser Apps
- - [Eve](https://teslaapps.net/en/) - Premier Dashboard for Tesla
- - [Teslapage](http://teslapage.com/) - Site with news, nearby charging stations, stock price, weather. 
- - [Waze for Tesla Incidents](https://teslawaze.azurewebsites.net/) - Waze for Tesla Incidents - Webapp that displays incidents reported via Waze.
- - [TeslaTap](http://teslatap.com/guest/sd-us/valet.php) - Site that demonstrates aspect of Model S to Valet, Guests and Car Washes
- - [QuickTesla](https://qtes.la/) - Site with weather, news, charging, stock price and valet instructions.
- - [Tes.app](https://tes.app) - Tesla Apps for Model 3 Model S & Model X 
- - [A Better Route Planner](https://abetterrouteplanner.com/) - A better route planner
- - [TezLab](https://tezlabapp.com) - Tesla monitoring and statistics
- - [Tesla Winds and Elevation](https://teslawinds.com/) - Show your course, ground speed, wind direction, crosswind, headwind/tailwind, elevation, climb/descend rates and grade.
- - [qTesla](https://qtes.la/) - Tesla browser based app launcher
- - [Kinetic Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
- - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities and directions.
 
+- [Waze for Tesla](https://teslawaze.azurewebsites.net) - Webapp that displays incidents reported via Waze.
+- [Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
+- [Tesla Winds and Elevation](https://teslawinds.com/) - Geographical information during your trips.
+- [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
 
-## Web Apps
+## Technical Information
 
-### Web Controls
+- [Tesla JSON API](https://tesla-api.timdorr.com) - The unoffocial Tesla API.
+- [Tesla Referral Stats](https://top.teslastats.no) - Top Tesla referrers from the Tesla referral program.
+- [Tesla Registration Stats](https://teslastats.no) - General Tesla registration stats.
+- [Tesla Vehicle Comparisons](https://docs.google.com/spreadsheets/d/1Rv464J1RsXNBNddy008IPsQfVrO4kHPh_L4HWKpG4bo/edit#gid=0) - A comprehensive over Tesla vehicles and effective cost.
+- [EV Registration](https://eu-evs.com/) - EV registration statistics for European countries.
+- [Tesla Deaths](https://www.tesladeaths.com) - Every Tesla accident resulting in death.
+- [Tesla EV Specifications](https://www.evspecifications.com/en/brand/b1e92) - A comprehensible list of all Tesla models and specs over time.
+- [Tesla OE Cross Reference](https://github.com/maplev-ca/tesla-oe-cross-reference) - Open dataset (CSV/JSON, CC BY 4.0) of Model 3 and Model Y part numbers: 513 Tesla OE numbers grouped by part, with fitment dates and Partslink numbers.
 
+## Coding Libraries
 
-### Web Statistics
-
- - [TeslaFi](www.teslafi.com) - Incredible wealth of stats for your Tesla.
- - [Teslastics](https://teslastics.com) - Teslastics is a platform to monitorize your Tesla.
- - [Teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla
- - [WattsonBot](https://wattsonbot.org) - Real-time Tesla alerts and stats in Telegram - charging, battery, TPMS and drive summaries
-
-### Web Customization
-
- - [Tesla Wrap Designer](https://tesla-wrap.design) - AI Tesla Paint Shop wrap designer with a 3D preview, PNG export for the Tesla app or USB, and a 5,000+ free wrap gallery.
-
-## News
-
- - [Teslarati](https://www.teslarati.com/) - Tesla News, Tips, Rumors, and Reviews
- - [Electrek](https://electrek.co/guides/tesla/) - Tesla news
- - [Autoblog](https://www.autoblog.com/tesla/news/) - Autoblog Tesla News
- - [TeslaTap](https://teslatap.com/) - Tap into current and future features, undocumented technical areas and more about Tesla’s latest vehicles such as the fantastic Model S, Model X and Model 3!
- 
-## Accessories
-
- - [Taptes](https://www.taptes.com/) - Just Tesla accessories
- - [Evannex](https://evannex.com/) - Aftermarket Tesla accessories
- - [For My Tesla](http://formytesla.com/) - Floormats & more
- - [RPM Tesla](https://www.rpmtesla.com/) - Aftermarket Tesla accessories
- - [Tesla Official Site](http://www.shop.teslamotors.com) - Official Tesla Accessories 
- 
-## Clubs
- - [Tesla Motor Club](https://teslamotorsclub.com/) - Tesla Motor Club
- - [Tesla Owners Online](https://teslaownersonline.com/) - Tesla Owners Online
- - [Tesla Model 3 Onwers Club](https://model3ownersclub.com) - Tesla Model 3 Owners Club
- 
-## Development
-
-### Development APIs
-  - [Tesla JSON API Unofficial](https://tesla-api.timdorr.com/) - Documentation for Tesla REST API
-  - [Ruby Gem For Tesla API](https://github.com/timdorr/tesla-api) - Ruby Gem for Tesla API
-  - [TeslaJS](https://github.com/mseminatore/TeslaJS) - An unofficial NodeJS library that encapsulates the Tesla RESTful API. This library currently supports all existing Tesla vehicles.
-
-### Development Tools
- - [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) - Open-source Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, steering mode, and 30+ more handlers. Connects via OBD-II or X179 connector.
-
+- [tesla-images](https://github.com/teslahunt/tesla-images) - Get Tesla vehicles images from Tesla inventory or 3D visualization.
+- [tesla-inventory](https://github.com/teslahunt/tesla-inventory) - Retrieve real-time data from Tesla Inventory.
+- [tesla-title](https://github.com/teslahunt/tesla-title) - Get Tesla vehicles title based on option codes.
+- [tesla-vin](https://github.com/teslahunt/tesla-vin) - Tesla Vehicle Identification Number (VIN) implemented following Model S/3/X/Y service manuals.
