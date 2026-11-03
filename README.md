@@ -68,6 +68,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [Teslastics](https://teslastics.com) - Teslastics is a platform to monitorize your Tesla.
  - [Teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla
  - [WattsonBot](https://wattsonbot.org) - Real-time Tesla alerts and stats in Telegram - charging, battery, TPMS and drive summaries
+ - [TeslaTracker](https://teslatracker.com) - Price history, price-drop alerts and market stats for every new and used Tesla for sale in the US, plus a free VIN decoder (HW3 vs HW4)
 
 ### Web Customization
 
