@@ -55,6 +55,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [qTesla](https://qtes.la/) - Tesla browser based app launcher
  - [Kinetic Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
  - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities and directions.
+ - [NEON MILES](https://neon-miles.higgsfield.app) - Free synthwave driving game for the in-car browser, driven by the car's real GPS speed, with a stop-light dashboard showing weather and Tesla news.
 
 
 ## Web Apps
