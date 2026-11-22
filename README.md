@@ -55,6 +55,7 @@ Want to contribute? Fork this repository, add your resources and send us a PR.
  - [qTesla](https://qtes.la/) - Tesla browser based app launcher
  - [Kinetic Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
  - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities and directions.
+ - [Zen Trips](https://zentrips.app) - Calm, living screensaver scenes that respond to how you drive: speed, turns and stops move the world, and tapping makes things react.
 
 
 ## Web Apps
